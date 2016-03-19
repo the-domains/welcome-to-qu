@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Welcome to Qu]]></title>
         <description><![CDATA[Welcome to Qu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/welcome-to-qu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 18:21:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 18:26:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/welcome-to-qu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5355f557-8da6-4438-a9d7-2736ccd744d7.jpg">]]></description>
+            <link>https://thegrid.ai/welcome-to-qu/c8b3dc90-88f9-465e-9688-d0e140722924/index.html</link>
+            <guid isPermaLink="false">c8b3dc90-88f9-465e-9688-d0e140722924</guid>
+            <pubDate>Sat, 19 Mar 2016 18:26:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test. I should do homework</p>]]></description>
-            <link>undefined9fe8f2a6-29bf-4d97-9d51-e4a66702a22e/index.html</link>
+            <link>https://thegrid.ai/welcome-to-qu/9fe8f2a6-29bf-4d97-9d51-e4a66702a22e/index.html</link>
             <guid isPermaLink="false">9fe8f2a6-29bf-4d97-9d51-e4a66702a22e</guid>
             <pubDate>Sat, 19 Mar 2016 18:21:16 GMT</pubDate>
         </item>
