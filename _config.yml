@@ -1,0 +1,28 @@
+name: Welcome to Qu
+favicon: null
+layout_spectrum: 0.27136479690670967
+typography_spectrum: 0.8877146786544472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.49625272466801107
+  lightness: 0.5656896750442684
+  saturation: 0.5107598602771759
+  rhythmicContrast: 0.11239064135588706
+purpose: []
